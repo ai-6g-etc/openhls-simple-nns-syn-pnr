@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1717542403" />
+    <testcase name="test_tb" classname="tb" file="/usr/local/lib/python3.10/site-packages/openhls/testbench/tb.py" lineno="81" time="1.4781215190887451" sim_time_ns="1125.001" ratio_time="761.1018346404684" />
+  </testsuite>
+</testsuites>
